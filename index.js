@@ -1,1 +1,3 @@
-var  a  = 3
+function(){
+    console('哈哈');
+}
